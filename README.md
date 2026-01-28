@@ -49,18 +49,19 @@ Aplicația oferă atât o interfață pentru clienți, cât și o consolă pentr
 ## 📸 Capturi ecran
 
 ### Ecran principal
-![Ecran principal](screenshots/home.png)
+![Ecran principal](screenshots/home.png.jpeg)
 
 ### Panou cumparator
-![Ecran principal](screenshots/customer.png)
+![Ecran principal](screenshots/customer.png.jpeg)
 
 ### Căutare produse
-![Căutare produse](screenshots/search.png)
+![Căutare produse](screenshots/search.png.jpeg)
 
 ### Panou angajat
-![Panou angajat](screenshots/employee.png)
+![Panou angajat](screenshots/employee.png.jpeg)
 
 ### Panou admin
-![Panou angajat](screenshots/admin.png)
+![Panou angajat](screenshots/admin.png.jpeg)
+
 
 
